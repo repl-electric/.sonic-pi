@@ -1,5 +1,5 @@
 #key: shd
 #point_line:0
-#point_index:16
+#point_index:8
 # --
-shader :decay, :, 0.0, 0.001
+shader :, 0.0, 0.001
