@@ -1,4 +1,4 @@
-#key: wsynth
+#key: wsyn
 #point_line:0
 #point_index:12
 # --
