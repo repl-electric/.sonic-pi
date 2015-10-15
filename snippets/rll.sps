@@ -2,7 +2,7 @@
 #point_line:1
 #point_index:12
 # --
-with_fx(:reverb, room: 1.0, mix: 1.0) do
+with_fx(:reverb, room: 1.0, mix: 1.0) do |r_fx|
  live_loop : do
   end
 end
